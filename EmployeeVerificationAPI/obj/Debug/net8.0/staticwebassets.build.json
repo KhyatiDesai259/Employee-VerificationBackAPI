@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QV5C8YFX+CWxKkHCYaZyD67qusCkNYRw7UTcYNJn2tM=",
+  "Source": "EmployeeVerificationAPI",
+  "BasePath": "_content/EmployeeVerificationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
